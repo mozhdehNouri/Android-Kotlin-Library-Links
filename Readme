@@ -28,4 +28,74 @@ EitherNet:A pluggable sealed API result type for modeling Retrofit responses. (h
 compose-rules: Twitter Compose Rules is a set of custom ktlint rules to ensure that your composables don't fall into common pitfalls, that might be easy to miss in code reviews. [https://github.com/twitter/compose-rules] [https://twitter.github.io/compose-rules/]
 
 
+**kotlinx-coroutines-rx3** is a Kotlin library that provides interoperability between Kotlin Coroutines and RxJava 3. (https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-rx3/)
+
+**kotlinx-coroutines-swing**: is a Kotlin library that provides specific support for using Kotlin Coroutines within Swing applications. It offers essential components like `Dispatchers.Swing` and `Dispatchers.Main` for executing coroutines on the Swing event dispatch thread, enabling efficient and asynchronous UI updates in a structured and concise manner. (https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-swing/)
+
+**auto-service-ksp**: is a Kotlin Symbol Processing (KSP) implementation of the popular AutoService library. It allows you to automatically generate service provider files without the need for manual code generation or annotation processors. This simplifies the process of creating service loader-based systems in Kotlin projects. (https://github.com/ZacSweers/auto-service-ksp)
+
+
+anvil: A Kotlin compiler plugin to make dependency injection with Dagger 2 easier. (https://github.com/square/anvil)
+
+uiautomator: is an Android testing framework designed for cross-app functional UI testing. It allows you to interact with visible elements on a device, regardless of which app is currently in focus, enabling you to perform actions like opening the Settings menu or the app launcher.(https://developer.android.com/jetpack/androidx/releases/test-uiautomator)
+
+profileinstaller: is an Android library that enables developers to prepopulate ahead-of-time compilation traces to be read by the Android Runtime (ART). This process, known as profile installation, can significantly improve app startup time and overall performance by providing the ART with information about frequently executed code paths. ("https://developer.android.com/jetpack/androidx/releases/profileinstaller)
+
+
+compose.ui:ui-unit: is a Jetpack Compose library that provides classes for representing and manipulating units of measurement used in UI layout.(https://developer.android.com/reference/kotlin/androidx/compose/ui/unit/package-summary)
+
+
+ui-text-google-fonts: is a Jetpack Compose library that enables you to use Google Fonts directly within your Compose UI.(https://developer.android.com/reference/kotlin/androidx/compose/ui/text/googlefonts/package-summary)
+
+**accompanist-flowlayout**: is a library from the Accompanist suite by Google that provides a `FlowLayout` composable for Jetpack Compose. This composable allows you to arrange child composables in a row-based layout, similar to a flow layout in web development. (https://google.github.io/accompanist/flowlayout/)
+
+browser: is an Android Jetpack library that provides support for embedding **Custom Tabs** within your app. (https://developer.android.com/jetpack/androidx/releases/browser)
+
+gradle-versions-plugin: Gradle plugin to discover dependency updates (https://github.com/ben-manes/gradle-versions-plugin)
+
+
+**SKIE** is a tool for Kotlin Multiplatform development that significantly enhances the Swift API published from Kotlin. It bridges the gap between Kotlin and Swift by generating Swift wrappers for Objective-C headers created by the Kotlin compiler. (https://github.com/touchlab/SKIE)
+
+
+paparazzi: Render your Android screens without a physical device or emulator (https://github.com/cashapp/paparazzi)
+
+  
+mosaic : Build terminal UI in Kotlin using Jetpack Compose(https://github.com/JakeWharton/mosaic)
+
+Molecule: is a Kotlin library designed to simplify state management in Jetpack Compose applications. It provides a way to create composable functions that produce a stream of data (`Flow`) using `StateFlow`, a state-holding stream from Jetpack Compose's ViewModel library.(https://github.com/cashapp/molecule)
+
+gradle-maven-publish-plugin: A Gradle plugin that publishes your Android and Kotlin libraries, including sources and javadoc, to Maven Central or any other Nexus instance.(https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+atomicfu: is a Kotlin compiler plugin that works in conjunction with the **kotlinx-atomicfu** library. It provides essential optimizations and features for using atomic operations in Kotlin code efficiently.(https://plugins.gradle.org/plugin/org.jetbrains.kotlin.plugin.atomicfu)
+
+emulator-wtf: Gradle plugin for running Android tests with emulator.wtf (https://github.com/emulator-wtf/gradle-plugin)
+
+dependency-guard: A Gradle plugin that guards against unintentional dependency changes. (https://github.com/dropbox/dependency-guard)
+
+Zoomable: Content zooming with dragging, double tap and dismiss gesture support for Compose Multiplatform.  (https://github.com/mxalbert1996/Zoomable)
+
+Android-VideoView-cache: Android VideoView cache: cache wrapper for standart android VideoView(https://github.com/Andrew0000/Android-VideoView-cache)
+
+vico: A light and extensible chart library for Android.
+(https://github.com/patrykandpatrick/vico)
+  
+**Commons Validator** is a Java library that provides a comprehensive set of tools for data validation. While primarily used in server-side applications, it can be effectively utilized in Android development to ensure data integrity and user input correctness.(https://commons.apache.org/proper/commons-validator/)
+
+ComposableTimelineView: Simple Timeline View, wrote via Kotlin Jetpack Compose.(https://github.com/yeocak/ComposableTimelineView)
+
+Seeker : A highly customizable seekbar/slider library for android with support for readahead indicator, segments and more. Made with Jetpack Compose (https://github.com/2307vivek/Seeker)
+
+
+shazamcrest: Reusable Hamcrest matchers suitable for automated testing (https://github.com/shazam/shazamcrest)
+
+LazyColumnScrollbar: Android Jetpack Compose LazyColumn scrollbar implementation.(https://github.com/nanihadesuka/LazyColumnScrollbar)
+
+
+kotlin-result: A multiplatform Result monad for modelling success or failure operations.(https://github.com/michaelbull/kotlin-result)
+
+compose-remember-preference: Jetpack Compose library for remembering state persistently (based on DataStore preferences) (https://github.com/burnoo/compose-remember-preference)
+
+
+
+
 
