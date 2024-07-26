@@ -95,6 +95,59 @@ kotlin-result: A multiplatform Result monad for modelling success or failure ope
 
 compose-remember-preference: Jetpack Compose library for remembering state persistently (based on DataStore preferences) (https://github.com/burnoo/compose-remember-preference)
 
+ComposeReorderable: Enables reordering by drag and drop in Jetpack Compose (Desktop) LazyList & LazyGrid.(https://github.com/aclassen/ComposeReorderable)
+
+resaca: Android library to scope ViewModels to a Composable, surviving configuration changes and navigation (https://github.com/sebaslogen/resaca)
+
+permission-flow-android: Know about real-time state of a Android app Permissions with Kotlin Flow APIs. (https://github.com/PatilShreyas/permission-flow-android)
+
+palette: The Palette API is part of the AndroidX library, allowing developers to pull specific colors from any image, thereby providing a way to use these colors for UI elements dynamically.(https://utkuglsvn.medium.com/what-is-palette-api-how-to-use-palette-api-1e594e371bb7)
+
+
+mapbox-maps-android: Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.
+(https://github.com/mapbox/mapbox-maps-android)
+
+Lumberjack: This is a **full logging library** with a build in way to log to **console**, **file** or any **custom** place as well as optional extensions to send a log file via mail or show it on the device. (https://github.com/MFlisar/Lumberjack)
+
+
+FeedbackManager: This is a very small library that allows you to **send feedback** from an app **without internet permission** via email, either directly or via an unintrusive notification.(https://github.com/MFlisar/FeedbackManager)
+
+**kotlin-reflect** is a Kotlin library that provides runtime reflection capabilities, allowing you to inspect and manipulate program elements at runtime.( https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-reflect)
+
+JWTDecode.Android: A library to help you decode JWTs for Android.(https://github.com/auth0/JWTDecode.Android)
+
+joda-time-android: Joda-Time library with Android specialization.(https://github.com/dlew/joda-time-android)
+
+JetLime: A Jetpack Compose library to display a timeline view in Android.(https://github.com/pushpalroy/JetLime)
+
+info-bar-compose: An Android Jetpack Compose library for displaying on-screen messages. (simplified Snackbar alternative)(https://github.com/radusalagean/info-bar-compose)
+
+Commons Imaging: a Pure-Java Image Library (https://commons.apache.org/proper/commons-imaging/)
+
+
+heat-map: This library provides a visual way of representing data in a form of daily heatmap.(https://github.com/k-surtel/heat-map)
+
+gifencoder: A pure Java library implementing the GIF89a specification. Suitable for use on Android.(https://github.com/square/gifencoder)
+
+flow-preferences: Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPreferences(https://github.com/tfcporciuncula/flow-preferences)
+
+
+Exifinterface: Read and write image file EXIF tags.(https://developer.android.com/jetpack/androidx/releases/exifinterface )
+
+Cropify: Image Cropper for Android Jetpack Compose.(https://github.com/MoyuruAizawa/Cropify)
+
+
+BubbleNavigationBarCompose: Add Bubble Navigation Bar in Android Jetpack Compose.(https://github.com/commandiron/BubbleNavigationBarCompose)
+
+auto-dagger: Auto Dagger allows you to automate some Dagger setup using Hilt.(https://github.com/ansman/auto-dagger)
+
+assure: A Kotlin library that makes biometric authentication quick and easy.(https://github.com/afollestad/assure)
+
+
+appyx: Model-driven navigation + UI components with gesture control for Compose Multiplatform.(https://github.com/bumble-tech/appyx)
+
+tracing: Write trace events to the system trace buffer.(https://androidx.tech/artifacts/tracing/tracing-ktx/)
+
 
 
 
