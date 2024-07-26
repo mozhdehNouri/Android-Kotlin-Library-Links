@@ -9,4 +9,26 @@ assertk: assertions for kotlin inspired by assertj [https://github.com/willowtre
  telephoto: Building blocks for designing media experiences in Compose UI[https://saket.github.io/telephoto/zoomableimage/] 
 [https://github.com/saket/telephoto]
 
+Roborazzi: an Android library for generating screenshots of your app's UI for visual regression testing. [https://github.com/takahirom/roborazzi]
+
+
+**Picnic**: is a Kotlin DSL and Java/Kotlin builder API for constructing HTML-like tables which can be rendered to text [https://github.com/JakeWharton/picnic]
+
+
+**Okio-fakefilesystem**: provides an in-memory filesystem implementation for testing purposes, allowing you to manipulate files and directories without affecting the actual file system.[https://mvnrepository.com/artifact/com.squareup.okio/okio-fakefilesystem]
+
+
+ktfmt: A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.[https://facebook.github.io/ktfmt/]  [https://github.com/facebook/ktfmt]
+
+molecule: Build a StateFlow stream using Jetpack Compose (https://github.com/cashapp/molecule)
+
+kotlinx-datetime: KotlinX multiplatform date/time library [https://github.com/Kotlin/kotlinx-datetime]
+
+KotlinPoet: A Kotlin and Java API for generating `.kt` source files. [https://square.github.io/kotlinpoet/] [https://github.com/square/kotlinpoet]
+
+EitherNet:A pluggable sealed API result type for modeling Retrofit responses. (https://github.com/slackhq/EitherNet)
+
+compose-rules: Twitter Compose Rules is a set of custom ktlint rules to ensure that your composables don't fall into common pitfalls, that might be easy to miss in code reviews. [https://github.com/twitter/compose-rules] [https://twitter.github.io/compose-rules/]
+
+
 
